@@ -20,7 +20,8 @@
 
 body {
 	background-color: var(--primary-color, #ae2633);
-	margin: 0;
+	margin: 1px;
+	display: flex;
 }
 
 .wrapper {
