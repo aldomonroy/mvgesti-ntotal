@@ -10,12 +10,12 @@
 	font-family: 'Open Sans', sans-serif;
 	font-weight: bold;
 	line-height: 1.12;
-	margin: 0;
+	margin: 1;
 }
 
 .offer__description, .form__description, .form__legal {
-	opacity: 0.8;
-	margin: 9pt 0;
+	opacity: 1;
+	margin: 1pt 0;
 }
 
 body {
